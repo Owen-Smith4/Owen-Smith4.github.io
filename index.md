@@ -4,4 +4,4 @@
 ## Design 2 (Basketball Data Set Visualization)
   [Design 2](Design2.md)
 ## Design 3 (Radio Station Website)
-  Link to page
+  [Design 3](Design3.md)
