@@ -5,6 +5,6 @@ In this project I had to use a dataset and create a visualization that users cou
 It taught me a lot about how to understand my user and think about my target audience when making a project.
 ### Highlights
 1. I felt like my design was very interactable and allowed the user to switch many things like the player and many different views
-   ![Image Example](Screenshot%202025-12-09%20140951.png)
+   ![Image Example](Design2pic2.png)
 2. I liked the way my graph was more applicable to basketball than just an average bar graph which allows users to be more engaged
-   ![Image Example](Screenshot%202025-12-09%20140502.png)
+   ![Image Example](Design2pic1.png)
