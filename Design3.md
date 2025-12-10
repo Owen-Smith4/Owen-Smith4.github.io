@@ -5,6 +5,6 @@ In this project I got a wishlist from a group of people who wanted an improved w
 This taught me how to prioritize what to focus on when designing for someone else and also how to improve on something that already exists to maintain what they have while adding new features and increasing the quality of what is already existant.
 ### Highlights
 1. I liked the simplistic design of the pages and the static menus that remained the same on almost every page so users could easily navigate the website.
-   ![Image Example](Screenshot%202025-12-09%20141916.png)
+   ![Image Example](Design3pic1.png)
 2. I felt like I did a good job balancing having both articles and music on the same website so it is possible to focus on only one or another without anything getting lost from the users attention by using both a bar at the bottom and a full screen option for viewing the music with varying levels of attention.
-   ![Image Example](Screenshot%202025-12-09%20142139.png)
+   ![Image Example](Design3pic2.png)
