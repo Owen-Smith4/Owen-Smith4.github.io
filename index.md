@@ -1,4 +1,5 @@
 # Owen's Design Portfolio
+Projects that I have worked on in my User Design Experience class
 ## Design 1 (Buffalo Zoo Mobile Redesign)
   [Design 1](Design1.md)
 ## Design 2 (Basketball Data Set Visualization)
